@@ -1,0 +1,9 @@
+{
+  "name": "sca-duplicate-upload-repro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Inert fixture for testing duplicate SCA uploads; do not execute dependencies.",
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
